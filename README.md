@@ -1,4 +1,4 @@
-<h1 align="left">Fancy seeing you here! 👋! My name is José Julián and I'm a Frontend Developer from México!</h1>
+<h1 align="left">Fancy seeing you here! 👋! My name is José Julián and I'm a Frontend Developer from México! 🤠</h1>
 
 ###
 
@@ -55,6 +55,12 @@
 ###
 
 <br clear="both">
+
+###
+
+<h3 align="left">⭐ Some badges</h3>
+
+![image](https://www.codewars.com/users/JulianCSN/badges/large)
 
 <h3 align="left">💬 you can find me on</h3>
 
