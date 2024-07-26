@@ -62,7 +62,7 @@
 
 ![image](https://www.codewars.com/users/JulianCSN/badges/large)
 
-<h3 align="left">💬 you can find me on</h3>
+<h3 align="left">💬 You can find me on</h3>
 
 ###
 
