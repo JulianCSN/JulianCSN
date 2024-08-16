@@ -1,3 +1,7 @@
+<img height="full" src="https://a-static.besthdwallpaper.com/samurai-kneeling-wallpaper-2880x1080-75209_89.jpg"  />
+
+###
+
 <h1 align="left">Fancy seeing you here! 👋! My name is José Julián and I'm a Frontend Developer from México! 🤠</h1>
 
 ###
