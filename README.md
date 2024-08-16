@@ -1,4 +1,4 @@
-<img height="full" src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/0/2/a/02a4b92048705c6530bc0c6a48d2cf9fcb6a74d9.gif"  />
+<img height="full" src="https://d2908q01vomqb2.cloudfront.net/c5b76da3e608d34edb07244cd9b875ee86906328/2022/05/04/AWS_Animated_Banner_1600x200_2022.gif"  />
 
 ###
 
