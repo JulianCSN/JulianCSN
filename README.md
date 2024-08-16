@@ -1,4 +1,4 @@
-<img height="full" src="https://d2908q01vomqb2.cloudfront.net/c5b76da3e608d34edb07244cd9b875ee86906328/2022/05/04/AWS_Animated_Banner_1600x200_2022.gif"  />
+<img height="full" src="https://static.wikia.nocookie.net/fridaynightfunking/images/3/39/MTCMaxwellIdle.gif/revision/latest/thumbnail/width/360/height/360?cb=20230221134342"  />
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="200" src="https://www.twentyonepilots.wiki/assets/files/3lurr-6414dc4d97784ae5a328b24057e017ad.gif"  />
+<img align="right" height="150" src="https://www.twentyonepilots.wiki/assets/files/3lurr-6414dc4d97784ae5a328b24057e017ad.gif"  />
 
 ###
 
