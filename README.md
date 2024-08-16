@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.twentyonepilots.wiki/assets/files/3lurr-6414dc4d97784ae5a328b24057e017ad.gif"  />
+<img align="right" height="180" width="180" src="https://cdn.pixabay.com/animation/2023/10/08/03/19/03-19-26-213_512.gif"  />
 
 ###
 
