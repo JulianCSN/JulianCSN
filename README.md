@@ -1,4 +1,4 @@
-<img height="full" src="https://i.pinimg.com/originals/62/f4/09/62f4098e003603f755fde09ca7f1e412.png"  />
+<img height="full" src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/0/2/a/02a4b92048705c6530bc0c6a48d2cf9fcb6a74d9.gif"  />
 
 ###
 
