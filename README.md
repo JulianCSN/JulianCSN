@@ -1,4 +1,4 @@
-<img height="full" src="https://static.wikia.nocookie.net/fridaynightfunking/images/3/39/MTCMaxwellIdle.gif/revision/latest/thumbnail/width/360/height/360?cb=20230221134342"  />
+<img height="full" src="https://trisya.com/myimg/child/soft_devlop.gif"  />
 
 ###
 
