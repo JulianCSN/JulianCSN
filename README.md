@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Software Engineer in graduation process (June 2024 - University of Colima). I create web pages using JavaScript/TypeScript, React + Next.js and CSS. I am currently studying AWS. My main focus is designing exceptional and creative user experiences (FrontEnd). My focus on detail ensures quality in every task I undertake. I am capable of having English conversations and I am open to job opportunities even if I am relocated.</p>
+<p align="left">Software Engineer (Recent graduate - University of Colima). I create web pages using React + Next.js, TypeScript, Tailwind CSS, and standard CSS. I am currently studying AWS and have experience handling basic AWS services. My main focus is designing and coding exceptional and creative user experiences (Frontend). My attention to detail ensures quality in every task I undertake. I am capable of having English conversations and am open to job opportunities, even if I need to relocate.</p>
 
 ###
 
