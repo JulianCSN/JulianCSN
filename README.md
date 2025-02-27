@@ -54,7 +54,7 @@
 
 ###
 
-<img align="left" height="100" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png](https://d1.awsstatic.com/certification/badges/AWS-Certified-AI-Practitioner_badge_300x300.85cea45137696692de99a72934f6ddb81f82fc12.png"  />
+<img align="left" height="100" src="https://d1.awsstatic.com/certification/badges/AWS-Certified-AI-Practitioner_badge_150x150.bb2bb1cae960f5ee8b93d3e2ccc9dd64bff29180.png"  />
 
 ###
 
