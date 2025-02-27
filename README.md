@@ -58,6 +58,10 @@
 
 ###
 
+<img align="left" height="100" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png"  />
+
+###
+
 <br clear="both">
 
 ###
