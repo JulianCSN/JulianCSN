@@ -54,7 +54,7 @@
 
 ###
 
-<img align="left" height="100" src="https://d1.awsstatic.com/certification/badges/AWS-Certified-AI-Practitioner_badge_150x150.bb2bb1cae960f5ee8b93d3e2ccc9dd64bff29180.png"  />
+<img align="left" height="100" src="https://preview.redd.it/from-zero-to-certified-my-first-aws-certification-in-ai-ml-v0-6yhe6vyebntd1.png?width=504&format=png&auto=webp&s=c96ddea8f6ae89b759822a485151604fb8ac9ab9"  />
 
 ###
 
