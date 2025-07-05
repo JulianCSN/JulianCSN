@@ -53,7 +53,7 @@
 
 ###
 
-<img align="left" height="130" src="https://preview.redd.it/from-zero-to-certified-my-first-aws-certification-in-ai-ml-v0-6yhe6vyebntd1.png?width=504&format=png&auto=webp&s=c96ddea8f6ae89b759822a485151604fb8ac9ab9" width="100px" />
+<img align="left" height="130" src="https://preview.redd.it/from-zero-to-certified-my-first-aws-certification-in-ai-ml-v0-6yhe6vyebntd1.png?width=504&format=png&auto=webp&s=c96ddea8f6ae89b759822a485151604fb8ac9ab9" width="130px" />
 
 ###
 
